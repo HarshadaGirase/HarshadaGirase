@@ -17,7 +17,7 @@
 * :nerd_face: I'm currently learning MERN Stack
 * :grinning: I'm passionate about Open Source Contribution
 * 💬 Ask me about HTML5, CSS3, Javascript, React.js, Git/Github, Node.js, Express.js, MongoDB, Java
-* 📫 How to react me: Send me an email [here](harshadajg2001@gmail.com)
+* 📫 How to reach me: Send me an email [here](harshadajg2001@gmail.com)
 * :zap: Fun Fact: I have a very healthy sense of humor :grin:
 
  ### :hammer_and_wrench: Languages and Tools :
