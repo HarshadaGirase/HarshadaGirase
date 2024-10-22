@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 
-* :nerd_face: I'm currently learning Azure
+
 * :grinning: I'm passionate about Open Source Contribution
 * 💬 Ask me about MERN Stack, Java
 * 📫 How to reach me: Send me an email [here](harshadajg2001@gmail.com)
@@ -61,4 +61,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
+
+## Hacktoberfest 2024 Badges
+[![An image of @harshadagirase's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshadagirase)](https://holopin.io/@harshadagirase)
 
