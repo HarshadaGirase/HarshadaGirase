@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 
-
+* Currently learning AWS
 * :grinning: I'm passionate about Open Source Contribution
 * 💬 Ask me about MERN Stack, Java
 * 📫 How to reach me: Send me an email [here](harshadajg2001@gmail.com)
