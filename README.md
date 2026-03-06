@@ -15,7 +15,7 @@
 ### :woman_technologist: About Me :
 
 * :grinning: I'm passionate about Open Source Contribution
-* 💬 Ask me about MERN, Docker, AWS, CI/CD Pipeline
+* 💬 Ask me about MERN, Angular, Docker, AWS, CI/CD Pipeline
 * 📫 How to reach me: Send me an email [here](harshadajg2001@gmail.com)
 
  ### :hammer_and_wrench: Languages and Tools :
