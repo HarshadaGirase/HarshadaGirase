@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Expressjs" alt="Expressjs" width="50" height="50" color="white"/>&nbsp;
@@ -34,18 +35,18 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
      <img src="https://www.pinecone.io/images/pinecone-white.svg" title="Pinecone" alt="Pinecone" width="40" height="40"/>
      
-
+  <img src="https://cdn.simpleicons.org/claude" title="Claude" alt="Claude" width="40" height="40"/>
                                   
 
 </div>
+
+
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshadaGirase&theme=dark&background=000000)](https://git.io/streak-stats) 
 
-
-
-
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=harshadagirase&theme=dark&background=000000_icons=true)
 
 ## Hacktoberfest 2024 Badges
 [![An image of @harshadagirase's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshadagirase)](https://holopin.io/@harshadagirase)
