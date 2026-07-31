@@ -44,7 +44,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarshadaGirase&theme=dark)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=harshadagirase&theme=dark&background=000000_icons=true)
 
